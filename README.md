@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Stan</h1>
-<h3 align="center">A cute student in training trying to learn programming</h3>
+<h3 align="center">A student in training trying to learn programming</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stanracelis&label=Profile%20views&color=0e75b6&style=flat" alt="stanracelis" /> </p>
 
